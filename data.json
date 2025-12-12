@@ -1,0 +1,106 @@
+{
+    "ata_reuniao": {
+        "titulo": "Planejamento Estratégico Q1 e Produção de Conteúdo",
+        "cabecalho": {
+            "data": "08/12/2025",
+            "participantes": [
+                "Ana Brito (Líder)",
+                "Lucineide",
+                "Cíntia"
+            ],
+            "pauta": "Planejamento Estratégico 2026 (Trimestral e anual) e Padronização da Plataforma de Treinamento"
+        },
+        "resumo_executivo": [
+            "Definição do calendário de treinamentos para o primeiro trimestre (Q1), estruturando-o em Ciclos sazonais (Verão/Outono/Primavera/Inverno).",
+            "Estabelecimento de 'Trilhas de Conhecimento' (ex: Trilha do Melasma) na plataforma, unificando conteúdos técnicos e comerciais.",
+            "Decisão de terceirizar demandas visuais complexas (e-books/catálogos/cápsula de conhecimento) para a designer Michele."
+        ],
+        "discussoes_principais": [
+            {
+                "topico": "Estrutura da Plataforma e Trilhas de Aprendizagem",
+                "contexto": "Necessidade de facilitar a navegação do usuário na plataforma e integrar diferentes formatos de conteúdo.",
+                "pontos_chave": {
+                    "conceito_trilhas": "Os conteúdos serão agrupados por indicação ou patologia (ex: Trilha do Melasma, Trilha da Regeneração, Trilha do Home Care) em vez de produtos soltos.",
+                    "hierarquia_conteudo": "Fluxo de estudo: 1º Curso (Vídeo + Slide), 2º E-book (Aprofundamento), 3º Cápsula do Conhecimento (Resumo Rápido), 4º Quiz (Fixação).",
+                    "modulo_comercial": "Inclusão de módulo específico para cada produto ensinando 'Como Vender', 'Pitch de Vendas' e 'Calculadora de Rentabilidade'."
+                },
+                "conclusao": "A estrutura de Trilhas foi aprovada para implementação imediata."
+            },
+            {
+                "topico": "Planejamento Trimestral (Ciclo Q1)",
+                "contexto": "Definição dos focos de treinamento baseados na sazonalidade (Verão e Pós-Verão).",
+                "cronograma": [
+                    {
+                        "mes": "Janeiro",
+                        "foco": "Verão/Férias - Tratamentos de verão e recuperação imediata.",
+                        "produtos": "Linha Melasma (Cosmelan/Dermamelan), Vitamina C, Mesotox e introdução à Linha Corporal (Lipolíticos e Body Shock)."
+                    },
+                    {
+                        "mes": "Fevereiro",
+                        "foco": "Pré-Carnaval - Corporal (gordura localizada/estrias) e Fotoproteção.",
+                        "produtos": "Linha Mesoprotech e Sensitive."
+                    },
+                    {
+                        "mes": "Março",
+                        "foco": "Renovação/Pós-Verão - Peelings e Regeneração profunda.",
+                        "produtos": "NCTC, X-DNA, Silício, Reductonidases."
+                    }
+                ],
+                "conclusao": "O cronograma seguirá esta lógica sazonal para alinhar o treinamento com a demanda comercial."
+            },
+            {
+                "topico": "Produção Audiovisual e Design",
+                "contexto": "Melhoria da qualidade técnica dos materiais produzidos internamente.",
+                "decisao": "Direcionar materiais densos como E-books e Catálogos para a designer Michelin (Michele).",
+                "motivo": "Insatisfação com entregas anteriores e necessidade de elevar o padrão estético da marca."
+            }
+        ],
+        "decisoes_tomadas": [
+            "Modelo de Trilhas: A plataforma será organizada por trilhas (Melasma, Regeneração, Corporal).",
+            "Periodicidade dos Treinamentos: Duas vezes por semana (Segundas e Quartas-feiras).",
+            "Terceirização de Design: E-books e materiais ricos serão produzidos externamente."
+        ],
+        "plano_de_acao": [
+            {
+                "responsavel": "Lucineide",
+                "tarefa": "Treinamento da linha: Age Element e linha Sensitive. Organizar a plataforma criando as 'Trilhas'.",
+                "entregaveis": [
+                    "Conteúdo técnico e comercial",
+                    "Protocolo PATH aplicado a cada linha",
+                    "Cronograma final dos treinamentos",
+                    "Planejamento estratégico"
+                ],
+                "prazo": "Contínuo"
+            },
+            {
+                "responsavel": "Equipe",
+                "tarefa": "Produzir e enviar os textos dos E-books para a designer Michelin.",
+                "entregaveis": [],
+                "prazo": "A definir"
+            },
+            {
+                "responsavel": "Cíntia",
+                "tarefa": "Treinamento de: Mesofiller, Reductonidase, Venofresh, Hair Loss.",
+                "entregaveis": [
+                    "Conteúdo técnico – apresentação",
+                    "E-book, cápsula conhecimento, avaliação",
+                    "Protocolos PATH (preventivo, assistencial, terapêutico, homecare)"
+                ],
+                "prazo": "A definir"
+            },
+            {
+                "responsavel": "Ana Brito",
+                "tarefa": "Validar cronograma final (dias e horários) com a equipe comercial.",
+                "entregaveis": [],
+                "prazo": "Imediato"
+            }
+        ],
+        "proximos_passos": [
+            "Consolidar Planejamento Estratégico 2026 (Lucineide e Cíntia).",
+            "Finalizar a estruturação do 'Catálogo' de produtos, destacando diferenciais de formulação.",
+            "Fazer os protocolos PATH nos cronogramas e pesquisar na Mesoestetic.",
+            "Aplicar o método PATH em todos os treinamentos.",
+            "Reunião com a designer para alinhar a identidade visual dos novos materiais."
+        ]
+    }
+}

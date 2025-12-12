@@ -1,0 +1,82 @@
+{
+    "brand": {
+        "name": "mesoestetic",
+        "logo_path": "logo.png"
+    },
+    "sections": [
+        {
+            "id": "diagnostico",
+            "title": "Diagnóstico e Identidade",
+            "content": {
+                "swot": {
+                    "strengths": [
+                        "Marca consolidada",
+                        "Alta qualidade"
+                    ],
+                    "weaknesses": [
+                        "Preço elevado",
+                        "Distribuição limitada"
+                    ],
+                    "opportunities": [
+                        "E-commerce",
+                        "Novos mercados"
+                    ],
+                    "threats": [
+                        "Concorrência local",
+                        "Impostos"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "objetivos",
+            "title": "Objetivos Estratégicos (SMART)",
+            "items": [
+                {
+                    "goal": "Aumentar faturamento",
+                    "target": "20%",
+                    "deadline": "2026-12-31"
+                },
+                {
+                    "goal": "Expandir base de clientes",
+                    "target": "15%",
+                    "deadline": "2026-06-30"
+                }
+            ]
+        },
+        {
+            "id": "cronograma",
+            "title": "Cronograma Visual 2026",
+            "description": "Renderização automática baseada no planejamento sazonal e rotinas.",
+            "events": [
+                {
+                    "date": "2026-01",
+                    "event": "Lançamento Verão"
+                },
+                {
+                    "date": "2026-04",
+                    "event": "Campanha Outono"
+                }
+            ]
+        },
+        {
+            "id": "estrategia",
+            "title": "Estratégia por Estação",
+            "content": "Detalhes das campanhas sazonais..."
+        },
+        {
+            "id": "kpis",
+            "title": "Monitoramento e KPIs",
+            "kpis": [
+                {
+                    "name": "ROI",
+                    "value": "15%"
+                },
+                {
+                    "name": "NPS",
+                    "value": "75"
+                }
+            ]
+        }
+    ]
+}
