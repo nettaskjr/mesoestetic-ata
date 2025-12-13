@@ -8,7 +8,7 @@
                 "Lucineide",
                 "Cíntia"
             ],
-            "pauta": "Planejamento Estratégico 2026 (Calendário anual, conectado as estações, datas comemorativas,trilhas de conhecimento). Treinamentos, produção conteúdo (Capsula conhecimento/Quiz/e-book/Avaliações/Protocolos/Folder/Associações/Mesclas). Momento de criar estrutura de materiais, pesquisas, com objetivo na plataforma ser rica em conteúdos e bem estruturada. Padronização da Plataforma de Treinamento, de forma mais atual e mais moderna, acesso fácil a hierarquia_conteudo (em construção por Fabio)"
+            "pauta": "Planejamento Estratégico 2026 (Calendário anual, conectado as estações, datas comemorativas,trilhas de conhecimento). Equipe treinamento momento de criar estrutura de materiais, pesquisas, com objetivo na plataforma ser rica em conteúdos e bem estruturada. Padronização da Plataforma de Treinamento, de forma mais atual e mais moderna, acesso fácil a hierarquia_conteudo (em construção por Fabio)"
         },
         "resumo_executivo": [
             "Definir Planejamento Estratégico / Foi definido que a equipe de treinamento terá o foco no desenvolvimento de materiais/pesquisas para estruturar a plataforma. Definição do calendário de treinamentos para o primeiro trimestre, estruturando-o em Ciclos sazonais (Verão/Outono/Primavera/Inverno).",
@@ -20,8 +20,8 @@
                 "topico": "Planejamento Estratégico 2026, Estrutura da Plataforma e Trilhas de Aprendizagem",
                 "contexto": "Necessidade de facilitar a navegação do usuário na plataforma e integrar diferentes formatos de conteúdo.",
                 "pontos_chave": {
-                    "conceito_trilhas": "Os conteúdos serão agrupados por indicação ou patologia (ex: Trilha do Melasma, Trilha da Regeneração, Trilha do Home Care) em vez de produtos soltos.",
-                    "hierarquia_conteudo": "Fluxo de estudo: 1º Curso (Vídeo + Slide), 2º E-book (Aprofundamento), 3º Cápsula do Conhecimento (Resumo Rápido), 4º Quiz (Fixação).",
+                    "conceito_trilhas": "Os conteúdos serão agrupados por indicação ou patologia (ex: Trilha do Melasma, Trilha da Regeneração, Trilha do Home Care) em vez de produtos soltos e PATH",
+                    "hierarquia_conteudo": "Fluxo de estudo: 1º Curso (Vídeo + Slideaaaa), 2º E-book (Aprofundamento), 3º Cápsula do Conhecimento (Resumo Rápido), 4º Quiz (Fixação).",
                     "modulo_comercial": "Inclusão de módulo específico para cada produto ensinando 'Como Vender', 'Pitch de Vendas' e 'Calculadora de Rentabilidade'."
                 },
                 "conclusao": "A estrutura de Trilhas foi aprovada para implementação imediata."
@@ -57,8 +57,8 @@
         ],
         "decisoes_tomadas": [
             "Modelo de Trilhas: A plataforma será organizada por trilhas (Melasma, Regeneração, Corporal).",
-            "Periodicidade dos Treinamentos: Duas vezes por semana (Segundas e Quartas-feiras).",
-            "Terceirização de Design: E-books e materiais ricos serão produzidos externamente."
+            "Periodicidade dos Treinamentos: Duas vezes por semana (Terça e Quinta-feiras).",
+            "Terceirização de Design: E-books e materiais ricos serão produzidos externamente. Edição de vídeos será feita por Rodrigo"
         ],
         "plano_de_acao": [
             {
@@ -70,13 +70,13 @@
                     "Cronograma final dos treinamentos",
                     "Planejamento estratégico"
                 ],
-                "prazo": "Contínuo"
+                "prazo": "Imediato/Contínuo"
             },
             {
                 "responsavel": "Equipe",
-                "tarefa": "Produzir e enviar os textos dos E-books para a designer Michelin.",
+                "tarefa": "Foco em produzir e apresentar os materiais para Ana aprovar e seguir para produção (designer Michele)"
                 "entregaveis": [],
-                "prazo": "A definir"
+                "prazo": "Imediato"
             },
             {
                 "responsavel": "Cíntia",
@@ -86,7 +86,7 @@
                     "E-book, cápsula conhecimento, avaliação",
                     "Protocolos PATH (preventivo, assistencial, terapêutico, homecare)"
                 ],
-                "prazo": "A definir"
+                "prazo": "Imediato"
             },
             {
                 "responsavel": "Ana Brito",
